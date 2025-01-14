@@ -2,6 +2,9 @@
 
 This project demonstrates a serverless, AI-driven chatbot application that interacts with PDF documents. Built using **Amazon Bedrock**, **LangChain**, **Python**, and **Docker**, this application employs **Retrieval-Augmented Generation (RAG)** to provide context-based responses from a knowledge base. The solution includes two applications—Admin and User—designed for seamless document management and user interaction.
 
+https://github.com/user-attachments/assets/bde43ff2-eb86-4f5f-b9a0-1f7d72f0be53
+
+
 ---
 
 ## Workflow
