@@ -1,4 +1,4 @@
-# Chat With PDF - Generative AI Application
+# GenAI Chatbot - Generative AI Application
 
 This project demonstrates a serverless, AI-driven chatbot application that interacts with PDF documents. Built using **Amazon Bedrock**, **LangChain**, **Python**, and **Docker**, this application employs **Retrieval-Augmented Generation (RAG)** to provide context-based responses from a knowledge base. The solution includes two applications—Admin and User—designed for seamless document management and user interaction.
 
